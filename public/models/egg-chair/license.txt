@@ -1,0 +1,11 @@
+Model Information:
+* title:	Egg-chair
+* source:	https://sketchfab.com/3d-models/egg-chair-4363b93c1ea74caa8768bbcea426bb81
+* author:	wright_101 (https://sketchfab.com/wright_101)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Egg-chair" (https://sketchfab.com/3d-models/egg-chair-4363b93c1ea74caa8768bbcea426bb81) by wright_101 (https://sketchfab.com/wright_101) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
